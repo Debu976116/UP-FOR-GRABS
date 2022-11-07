@@ -1,0 +1,13 @@
+---
+name: PowerShell extension for Visual Studio Code
+desc: Help improve the PowerShell extension for Visual Studio Code!
+site: https://github.com/PowerShell/vscode-powershell
+tags:
+- powershell
+- typescript
+upforgrabs:
+  name: Up for Grabs
+  link: https://github.com/PowerShell/vscode-powershell/labels/Up%20for%20Grabs
+stats:
+  issue-count: 66
+  last-updated: '2022-09-20T18:38:11Z'

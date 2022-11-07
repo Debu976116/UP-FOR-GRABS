@@ -1,0 +1,17 @@
+---
+name: Dotty
+desc: Next-generation Scala Compiler
+site: https://github.com/lampepfl/dotty
+tags:
+- scala
+- language
+- language-server-protocol
+- compiler
+- ide
+- jvm
+upforgrabs:
+  name: exp:novice
+  link: https://github.com/lampepfl/dotty/labels/exp%3Anovice
+stats:
+  issue-count: 2
+  last-updated: '2022-11-01T09:00:06Z'

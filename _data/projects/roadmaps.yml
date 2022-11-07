@@ -1,0 +1,19 @@
+---
+name: roadmaps
+desc: Curated list of communities and job portals you can join and apply to.
+site: https://github.com/commclassroom/roadmaps
+tags:
+- backend
+- frontend
+- full-stack
+- devops
+- open-source
+- devrel
+- roadmaps
+- community-classroom
+upforgrabs:
+  name: enhancement
+  link: https://github.com/commclassroom/roadmaps/labels/enhancement
+stats:
+  issue-count: 7
+  last-updated: '2022-11-07T11:56:55Z'

@@ -1,0 +1,20 @@
+---
+name: LitmusChaos
+desc: Litmus is a toolset to do cloud-native chaos engineering
+site: https://github.com/litmuschaos/litmus
+tags:
+- devops
+- sre
+- cncf
+- mayadata
+- kubernetes
+- litmus
+- openebs
+- docker
+- chaos-engineering
+upforgrabs:
+  name: good first issue
+  link: https://github.com/litmuschaos/litmus/labels/good%20first%20issue
+stats:
+  issue-count: 17
+  last-updated: '2022-10-10T04:36:41Z'

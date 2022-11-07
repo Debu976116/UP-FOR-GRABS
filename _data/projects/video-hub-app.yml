@@ -1,0 +1,16 @@
+---
+name: Video Hub App
+desc: The fastest way to browse and search for videos on your computer
+site: https://github.com/whyboris/Video-Hub-App
+tags:
+- oss
+- video
+- angular
+- electron
+- javascript
+upforgrabs:
+  name: good first issue
+  link: https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue
+stats:
+  issue-count: 16
+  last-updated: '2022-10-07T02:11:50Z'
